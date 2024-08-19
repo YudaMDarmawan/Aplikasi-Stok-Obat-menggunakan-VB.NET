@@ -1,0 +1,42 @@
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.exe.config
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.exe
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.pdb
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.xml
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Form1.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Resources.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.vbproj.GenerateResource.Cache
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.exe
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.xml
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.pdb
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Login.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Fentryuser.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Menu_Utama.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.vbprojResolveAssemblyReference.cache
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\MetroFramework.Design.dll
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\MetroFramework.dll
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\bin\Debug\MetroFramework.Fonts.dll
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Form_obat.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Stok_Obat.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Dataobatmasuk.resources
+D:\Order\KP SUS\stok_obat_kimiafarma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Dataobatkeluar.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.exe.config
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.exe
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.pdb
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\stok_obat_kimiafarma.xml
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\MetroFramework.Design.dll
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\MetroFramework.dll
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\bin\Debug\MetroFramework.Fonts.dll
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Dataobatkeluar.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Dataobatmasuk.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Fentryuser.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Form_obat.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Form1.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Login.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Menu_Utama.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Resources.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stokkimiafarma.Stok_Obat.resources
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.vbproj.GenerateResource.Cache
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.exe
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.xml
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.pdb
+D:\Order\KP SUS\stok_obat_kimia farma\stok_obat_kimiafarma\obj\Debug\stok_obat_kimiafarma.vbprojResolveAssemblyReference.cache
